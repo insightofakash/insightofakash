@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @insightofakash
-- 👀 I’m interested in data.
-- 🌱 I’m currently learning analytics and data science.
+- 👀 I’m interested in web development and machine learning.
+- 🌱 I’m currently going through The Odin Project.
 - 📫 How to reach me: aceakashdey@gmail.com
 
