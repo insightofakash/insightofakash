@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @insightofakash
-- 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently going through The Odin Project.
+- 👋 Hi, I’m Akash.
+- 👀 I make a thing or two in web dev and design.
+
 - 📫 How to reach me: aceakashdey@gmail.com
 
